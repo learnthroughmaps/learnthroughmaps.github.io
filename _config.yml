@@ -1,0 +1,17 @@
+# Site settings
+title: Learn through Maps
+email: hs.aparna.blr@gmail.com
+description: # this means to ignore newlines until "baseurl:"
+  - Hover over the top right corner of map
+  - Click on View Larger Map
+  - Click on a marked location to get details/ description
+  - Zoom in and zoom out to capture in your mind all places in vicinity
+  - Repeat the exercise, go through the maps daily for easy retention
+baseurl: "/urban-theme" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+permalink: pretty
