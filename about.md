@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 
+title:
 permalink: /about/
 ---
 
-### Hola Amigos!
+## Hola!
 
 
 #### What is this site for?
@@ -22,9 +22,10 @@ This site is built using [Google My Maps](https://www.google.com/maps/about/myma
 
 If thy good minded souls want to contribute to this site, and help other learners, you can do so in the following ways:
 
-- Create a map of what you feel is useful and just pass on the link generated through "embed on my site" here
-- Edit the maps present to add more details / layers for points marked. Please ensure anything added is factually correct.
-- If you don't have the willingness to do the above, share your ideas below or Telegram me @happy_appy
+- Create a map of what you feel is useful and just pass on the link generated through "embed on my site" option on Telegram @happy_appy
+- Edit the maps present to add more details / layers for points marked. Please ensure anything added is factually correct
+- If you don't have the time/ willingness to do the above, share your ideas on Telegram @happy_appy
 
-<br>
-<br>
+#### Meet the Creators
+[Aparna H S](https://www.linkedin.com/in/aparna-h-s-67a3585a/)
+[Jayanth Manklu](https://www.linkedin.com/in/jayanthmanklu/)
