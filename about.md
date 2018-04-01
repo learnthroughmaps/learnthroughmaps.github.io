@@ -1,10 +1,10 @@
 ---
 layout: page
-title:
+title: 
 permalink: /about/
 ---
 
-## Hola Amigos!
+### Hola Amigos!
 
 
 #### What is this site for?
