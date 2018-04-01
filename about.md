@@ -4,7 +4,7 @@ title:
 permalink: /about/
 ---
 
-## Hola!
+## Hola!!
 
 
 #### What is this site for?
@@ -28,4 +28,5 @@ If thy good minded souls want to contribute to this site, and help other learner
 
 #### Meet the Creators
 [Aparna H S](https://www.linkedin.com/in/aparna-h-s-67a3585a/)
+<br>
 [Jayanth Manklu](https://www.linkedin.com/in/jayanthmanklu/)
