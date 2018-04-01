@@ -26,7 +26,9 @@ If thy good minded souls want to contribute to this site, and help other learner
 - Edit the maps present to add more details / layers for points marked. Please ensure anything added is factually correct
 - If you don't have the time/ willingness to do the above, share your ideas on Telegram @happy_appy
 
+
 #### Meet the Creators
+
 [Aparna H S](https://www.linkedin.com/in/aparna-h-s-67a3585a/)
 <br>
 [Jayanth Manklu](https://www.linkedin.com/in/jayanthmanklu/)
