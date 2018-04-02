@@ -20,9 +20,9 @@ This site is built using [Google My Maps](https://www.google.com/maps/about/myma
 
 If thy good minded souls want to contribute to this site, and help other learners, you can do so in the following ways:
 
-- Create a map of what you feel is useful and just pass on the link generated through "embed on my site" option on Telegram @happy_appy
+- Create a map of what you feel is useful and just pass on the link generated through "embed on my site" option [here](https://goo.gl/forms/5eqxiATHXMXi4Hni1)
 - Edit the maps present to add more details / layers for points marked. Please ensure anything added is factually correct
-- If you don't have the time/ willingness to do the above, share your ideas on Telegram @happy_appy
+- If you don't have the time/ willingness to do the above, share your ideas [here](https://goo.gl/forms/VItkiXGEpYHqNP3F3)
 
 <br>
 #### Meet the Creators
