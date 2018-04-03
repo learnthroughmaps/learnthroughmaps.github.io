@@ -28,5 +28,4 @@ If thy good minded souls want to contribute to this site, and help other learner
 ----------------------------
 #### Creators
 
-[Aparna H S](https://www.linkedin.com/in/aparna-h-s-67a3585a/)
-<br>[Jayanth Manklu](https://www.linkedin.com/in/jayanthmanklu/)
+[Aparna H S](https://www.linkedin.com/in/aparna-h-s-67a3585a/) & [Jayanth Manklu](https://www.linkedin.com/in/jayanthmanklu/)
