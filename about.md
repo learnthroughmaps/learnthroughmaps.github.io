@@ -25,7 +25,7 @@ If thy good minded souls want to contribute to this site, and help other learner
 - If you don't have the time/ willingness to do the above, share your ideas [here](https://goo.gl/forms/VItkiXGEpYHqNP3F3)
 
 
----------------------
+================================
 #### Creators
 
 [Aparna H S](https://www.linkedin.com/in/aparna-h-s-67a3585a/)
